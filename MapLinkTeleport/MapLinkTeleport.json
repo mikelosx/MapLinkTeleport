@@ -1,0 +1,12 @@
+{
+  "Author": "your name here",
+  "Name": "Map Link Teleport",
+  "Punchline": "Lets you right click map links in chat to teleport you to the nearest aetheryte",
+  "Description": "Lets you right click map links in chat to teleport you to the nearest aetheryte",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
